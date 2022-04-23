@@ -1,5 +1,9 @@
 # ML_Final_Project
 **Setup**
+
+# Slide
+https://docs.google.com/presentation/d/1MmAssmAmo61FWEGMbSKWo65-7J_Kh6mfxat8TiQTFxk/edit?usp=sharing
+
 In your Google Drive, create a directory with the name _"ML_Project"_ (No double quotes) and in it, copy both the CSV files in the datasets directory of this repository: MBM.csv and BBB.csv
 Download the DreamTeam.ipynb file and open it using Google Colab
 
@@ -9,3 +13,9 @@ The 5th last cell defines the dream team (using metrics defined in the cells bef
 The 4th last cell creates a dataset matching every team against our dream team
 The 2nd last cell trains the dataset using an inbuilt Random Forest Classifier using our preprocessed datasets
 The last set finally finds what percentage of matches our dream team wins (using a set of labels which say that our team should always win)
+
+
+![](img/1.jpg)
+![](img/2.jpg)
+![](img/3.jpg)
+![](img/4.jpg)
